@@ -1,0 +1,21 @@
+{
+  "name": "pelagic-ocean",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "assets": "blender --background --threads 2 --python scripts/build_vessels.py",
+    "test": "node --test scripts/*.test.mjs",
+    "qa": "node scripts/browser-qa.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.55.1",
+    "vite": "7.3.6"
+  }
+}

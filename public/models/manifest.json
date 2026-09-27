@@ -1,0 +1,973 @@
+{
+  "cargo": {
+    "navigationX": 11.88,
+    "navigationZ": 62,
+    "navigationHeight": 20.8,
+    "length": 174,
+    "beam": 27,
+    "draft": 7.2,
+    "freeboard": 7.5,
+    "speed": 6.8,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      77186,
+      3242
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -13.537500381469727,
+        -7.199999809265137,
+        -87.0
+      ],
+      "max": [
+        13.537500381469727,
+        30.5,
+        87.0
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.71,
+      "gm": 1.8,
+      "cgHeight": 4.0,
+      "rollDamping": 0.2,
+      "addedHeave": 0.7,
+      "waterplaneStations": [
+        [
+          0,
+          0.74
+        ],
+        [
+          0.07,
+          0.94
+        ],
+        [
+          0.22,
+          1
+        ],
+        [
+          0.64,
+          1
+        ],
+        [
+          0.79,
+          0.91
+        ],
+        [
+          0.9,
+          0.66
+        ],
+        [
+          0.97,
+          0.27
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "merchant"
+    }
+  },
+  "tanker": {
+    "navigationX": 9.68,
+    "navigationZ": 46,
+    "navigationHeight": 19.9,
+    "length": 132,
+    "beam": 22,
+    "draft": 6.5,
+    "freeboard": 6.6,
+    "speed": 5.7,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      47182,
+      1818
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -11.037500381469727,
+        -6.5,
+        -66.0
+      ],
+      "max": [
+        11.037500381469727,
+        29.600000381469727,
+        66.0
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.75,
+      "gm": 2.6,
+      "cgHeight": 3.2,
+      "rollDamping": 0.24,
+      "addedHeave": 0.75,
+      "waterplaneStations": [
+        [
+          0,
+          0.74
+        ],
+        [
+          0.07,
+          0.94
+        ],
+        [
+          0.22,
+          1
+        ],
+        [
+          0.64,
+          1
+        ],
+        [
+          0.79,
+          0.91
+        ],
+        [
+          0.9,
+          0.66
+        ],
+        [
+          0.97,
+          0.27
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "merchant"
+    }
+  },
+  "fishing": {
+    "navigationX": 3.96,
+    "navigationZ": -7,
+    "navigationHeight": 8.0,
+    "length": 36,
+    "beam": 9,
+    "draft": 3.4,
+    "freeboard": 3.4,
+    "speed": 3.7,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      21758,
+      1286
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -4.539999961853027,
+        -3.4000000953674316,
+        -18.0
+      ],
+      "max": [
+        4.539999961853027,
+        14.699999809265137,
+        18.0
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.68,
+      "gm": 1.15,
+      "cgHeight": 1.2,
+      "rollDamping": 0.25,
+      "waterplaneStations": [
+        [
+          0,
+          0.8
+        ],
+        [
+          0.1,
+          0.97
+        ],
+        [
+          0.38,
+          1
+        ],
+        [
+          0.66,
+          0.98
+        ],
+        [
+          0.81,
+          0.87
+        ],
+        [
+          0.92,
+          0.54
+        ],
+        [
+          0.98,
+          0.18
+        ],
+        [
+          1,
+          0.018
+        ]
+      ],
+      "waterplaneScale": 0.96,
+      "hullForm": "workboat"
+    }
+  },
+  "tug": {
+    "navigationX": 4.84,
+    "navigationZ": -4,
+    "navigationHeight": 7.6,
+    "length": 31,
+    "beam": 11,
+    "draft": 3.5,
+    "freeboard": 3.0,
+    "speed": 4.1,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      24574,
+      2006
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -5.836979866027832,
+        -3.5,
+        -15.5
+      ],
+      "max": [
+        5.836979866027832,
+        14.300000190734863,
+        15.5
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.72,
+      "gm": 1.7,
+      "cgHeight": 1.4,
+      "rollDamping": 0.3,
+      "waterplaneStations": [
+        [
+          0,
+          0.8
+        ],
+        [
+          0.1,
+          0.97
+        ],
+        [
+          0.38,
+          1
+        ],
+        [
+          0.66,
+          0.98
+        ],
+        [
+          0.81,
+          0.87
+        ],
+        [
+          0.92,
+          0.54
+        ],
+        [
+          0.98,
+          0.18
+        ],
+        [
+          1,
+          0.018
+        ]
+      ],
+      "waterplaneScale": 0.96,
+      "hullForm": "workboat"
+    }
+  },
+  "yacht": {
+    "navigationX": 2.8356,
+    "navigationZ": 0.8,
+    "navigationHeight": 5.75,
+    "length": 27,
+    "beam": 6.8,
+    "draft": 1.4,
+    "freeboard": 2.0,
+    "speed": 7.5,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      15106,
+      1338
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -3.4142842292785645,
+        -1.399999976158142,
+        -13.5
+      ],
+      "max": [
+        3.4142842292785645,
+        8.84000015258789,
+        14.399999618530273
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.65,
+      "gm": 0.95,
+      "cgHeight": 1.0,
+      "rollDamping": 0.29,
+      "planing": 0.35,
+      "waterplaneStations": [
+        [
+          0,
+          0.88
+        ],
+        [
+          0.16,
+          0.97
+        ],
+        [
+          0.4,
+          1
+        ],
+        [
+          0.62,
+          0.92
+        ],
+        [
+          0.78,
+          0.73
+        ],
+        [
+          0.91,
+          0.43
+        ],
+        [
+          0.98,
+          0.13
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 0.9,
+      "hullForm": "planing"
+    }
+  },
+  "rib": {
+    "navigationX": 1.07,
+    "navigationZ": 3.2,
+    "navigationHeight": 2.7800000000000002,
+    "length": 9.6,
+    "beam": 3.4,
+    "draft": 0.55,
+    "freeboard": 0.55,
+    "speed": 14.5,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      11738,
+      1842
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -1.6999872922897339,
+        -0.7699999809265137,
+        -4.800000190734863
+      ],
+      "max": [
+        1.6999872922897339,
+        3.1600000858306885,
+        4.800000190734863
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.64,
+      "gm": 0.9,
+      "cgHeight": 0.62,
+      "rollDamping": 0.38,
+      "heaveDamping": 0.7,
+      "pitchDamping": 0.66,
+      "addedHeave": 0.5,
+      "planing": 1.0,
+      "waterplaneStations": [
+        [
+          0,
+          0.88
+        ],
+        [
+          0.16,
+          0.97
+        ],
+        [
+          0.4,
+          1
+        ],
+        [
+          0.62,
+          0.92
+        ],
+        [
+          0.78,
+          0.73
+        ],
+        [
+          0.91,
+          0.43
+        ],
+        [
+          0.98,
+          0.13
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 0.9,
+      "hullForm": "planing"
+    },
+    "mastHeight": 3.04,
+    "mastZ": 3.2
+  },
+  "ferry": {
+    "navigationX": 3.74,
+    "navigationZ": -15,
+    "navigationHeight": 7.95,
+    "length": 58,
+    "beam": 17,
+    "draft": 2.2,
+    "freeboard": 2.7,
+    "speed": 9.2,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      20832,
+      2200
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -8.536629676818848,
+        -2.200000047683716,
+        -29.0
+      ],
+      "max": [
+        8.536629676818848,
+        14.399999618530273,
+        29.0
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.7,
+      "gm": 4.8,
+      "cgHeight": 2.7,
+      "hullBeam": 5.1,
+      "hullSpacing": 11.5,
+      "rollDamping": 0.34,
+      "waterplaneStations": [
+        [
+          0,
+          0.7
+        ],
+        [
+          0.16,
+          0.94
+        ],
+        [
+          0.42,
+          1
+        ],
+        [
+          0.65,
+          0.91
+        ],
+        [
+          0.81,
+          0.71
+        ],
+        [
+          0.93,
+          0.34
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "catamaran"
+    }
+  },
+  "sailboat": {
+    "navigationX": 2.42,
+    "navigationZ": -4.8,
+    "navigationHeight": 2.0,
+    "length": 18.8,
+    "beam": 5.5,
+    "draft": 2.25,
+    "freeboard": 1.15,
+    "speed": 3.6,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      18298,
+      1542
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -2.7499871253967285,
+        -2.6500000953674316,
+        -9.399999618530273
+      ],
+      "max": [
+        2.7499871253967285,
+        22.149999618530273,
+        9.399999618530273
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.62,
+      "gm": 0.72,
+      "cgHeight": 0.3,
+      "effectiveDraft": 0.8,
+      "rollDamping": 0.22,
+      "addedRoll": 0.8,
+      "waterplaneStations": [
+        [
+          0,
+          0.42
+        ],
+        [
+          0.14,
+          0.77
+        ],
+        [
+          0.38,
+          1
+        ],
+        [
+          0.57,
+          0.99
+        ],
+        [
+          0.76,
+          0.8
+        ],
+        [
+          0.91,
+          0.43
+        ],
+        [
+          0.98,
+          0.12
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 0.96,
+      "hullForm": "sailing"
+    },
+    "mastHeight": 22.15,
+    "mastZ": -2.1
+  },
+  "patrol": {
+    "navigationX": 2.553,
+    "navigationZ": -3.2,
+    "navigationHeight": 5.77,
+    "length": 29,
+    "beam": 7.4,
+    "draft": 1.7,
+    "freeboard": 2.2,
+    "speed": 10.8,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      18086,
+      1810
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -3.8165476322174072,
+        -1.7000000476837158,
+        -14.5
+      ],
+      "max": [
+        3.8165476322174072,
+        11.460000038146973,
+        14.5
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.67,
+      "gm": 1.15,
+      "cgHeight": 1.1,
+      "rollDamping": 0.3,
+      "planing": 0.55,
+      "waterplaneStations": [
+        [
+          0,
+          0.88
+        ],
+        [
+          0.16,
+          0.97
+        ],
+        [
+          0.4,
+          1
+        ],
+        [
+          0.62,
+          0.92
+        ],
+        [
+          0.78,
+          0.73
+        ],
+        [
+          0.91,
+          0.43
+        ],
+        [
+          0.98,
+          0.13
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 0.9,
+      "hullForm": "planing"
+    }
+  },
+  "carrier": {
+    "navigationX": 28,
+    "navigationZ": 15,
+    "navigationHeight": 40.2,
+    "length": 333,
+    "beam": 40.8,
+    "draft": 11.3,
+    "freeboard": 13.6,
+    "speed": 7.2,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      125930,
+      11754
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -40.377525329589844,
+        -11.300000190734863,
+        -166.5
+      ],
+      "max": [
+        39.34282302856445,
+        58.20000076293945,
+        166.5
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.74,
+      "gm": 2.9,
+      "cgHeight": 8.2,
+      "rollDamping": 0.3,
+      "addedHeave": 0.85,
+      "addedPitch": 0.85,
+      "heaveDamping": 0.66,
+      "waterplaneStations": [
+        [
+          0,
+          0.66
+        ],
+        [
+          0.1,
+          0.86
+        ],
+        [
+          0.3,
+          1
+        ],
+        [
+          0.6,
+          0.98
+        ],
+        [
+          0.77,
+          0.84
+        ],
+        [
+          0.9,
+          0.51
+        ],
+        [
+          0.97,
+          0.2
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "naval"
+    },
+    "flightDeckHeight": 20.2,
+    "flightDeckBeam": 78,
+    "aircraftCount": 10,
+    "contactBeam": 78,
+    "mastHeight": 57.2
+  },
+  "bulk": {
+    "navigationX": 14.08,
+    "navigationZ": 86,
+    "navigationHeight": 24.2,
+    "length": 230,
+    "beam": 32,
+    "draft": 10.3,
+    "freeboard": 8.2,
+    "speed": 5.4,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      55482,
+      1898
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -16.037500381469727,
+        -10.300000190734863,
+        -115.0
+      ],
+      "max": [
+        16.037500381469727,
+        34.099998474121094,
+        115.0
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.79,
+      "gm": 2.4,
+      "cgHeight": 4.2,
+      "rollDamping": 0.26,
+      "addedHeave": 0.8,
+      "waterplaneStations": [
+        [
+          0,
+          0.74
+        ],
+        [
+          0.07,
+          0.94
+        ],
+        [
+          0.22,
+          1
+        ],
+        [
+          0.64,
+          1
+        ],
+        [
+          0.79,
+          0.91
+        ],
+        [
+          0.9,
+          0.66
+        ],
+        [
+          0.97,
+          0.27
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "merchant"
+    }
+  },
+  "destroyer": {
+    "navigationX": 8.8,
+    "navigationZ": -18,
+    "navigationHeight": 20.8,
+    "length": 156,
+    "beam": 20,
+    "draft": 6.2,
+    "freeboard": 5.8,
+    "speed": 8.3,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      27886,
+      1886
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -10.018021583557129,
+        -6.199999809265137,
+        -78.0
+      ],
+      "max": [
+        10.018021583557129,
+        43.400001525878906,
+        78.4000015258789
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.58,
+      "gm": 1.7,
+      "cgHeight": 3.0,
+      "rollDamping": 0.28,
+      "addedHeave": 0.75,
+      "waterplaneStations": [
+        [
+          0,
+          0.66
+        ],
+        [
+          0.1,
+          0.86
+        ],
+        [
+          0.3,
+          1
+        ],
+        [
+          0.6,
+          0.98
+        ],
+        [
+          0.77,
+          0.84
+        ],
+        [
+          0.9,
+          0.51
+        ],
+        [
+          0.97,
+          0.2
+        ],
+        [
+          1,
+          0.012
+        ]
+      ],
+      "waterplaneScale": 1.0,
+      "hullForm": "naval"
+    }
+  },
+  "trawler": {
+    "navigationX": 2.156,
+    "navigationZ": -1.8,
+    "navigationHeight": 3.4,
+    "length": 14.5,
+    "beam": 4.9,
+    "draft": 1.4,
+    "freeboard": 1.5,
+    "speed": 3.2,
+    "forward": "-Z",
+    "up": "+Y",
+    "units": "metres",
+    "triangles": [
+      16478,
+      1738
+    ],
+    "sourceClosed": true,
+    "assetVersion": 2,
+    "bounds": {
+      "min": [
+        -2.5,
+        -1.399999976158142,
+        -7.25
+      ],
+      "max": [
+        2.5,
+        8.649999618530273,
+        7.25
+      ]
+    },
+    "hydrodynamics": {
+      "block": 0.66,
+      "gm": 0.95,
+      "cgHeight": 0.9,
+      "rollDamping": 0.32,
+      "waterplaneStations": [
+        [
+          0,
+          0.8
+        ],
+        [
+          0.1,
+          0.97
+        ],
+        [
+          0.38,
+          1
+        ],
+        [
+          0.66,
+          0.98
+        ],
+        [
+          0.81,
+          0.87
+        ],
+        [
+          0.92,
+          0.54
+        ],
+        [
+          0.98,
+          0.18
+        ],
+        [
+          1,
+          0.018
+        ]
+      ],
+      "waterplaneScale": 0.96,
+      "hullForm": "workboat"
+    }
+  }
+}
